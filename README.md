@@ -1,1 +1,1 @@
-# Aeronautics-Engineer-Self-Taught
+# Aeronautics Engineer Self-Taught
