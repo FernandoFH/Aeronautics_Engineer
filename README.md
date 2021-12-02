@@ -1,6 +1,6 @@
 # Aeronautics Engineer Self-Taught
 
-  - [Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-842-fundamentals-of-systems-engineering-fall-2015/)
+  - [Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-842-fundamentals-of-systems-engineering-fall-2015/) || [NOTE](https://github.com/FernandoFH/Aeronautics-Engineer-Self-Taught/blob/main/Fundamentals_Systems_Engineering.md)
   - [Aircraft Systems Engineering](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-885j-aircraft-systems-engineering-fall-2005/)
 
 ## Plan de Estudio
