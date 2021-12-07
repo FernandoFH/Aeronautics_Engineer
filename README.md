@@ -1,4 +1,4 @@
-<h2 align="center"> Aeronautics Engineer Self-Taught </b> </h2>
+<h1 align="center"> Aeronautics Engineer Self-Taught </b> </h1>
 
 ### Curriculum
 
