@@ -1,5 +1,6 @@
-# Aeronautics Engineer Self-Taught
-### Plan de Estudio
+<h2 align="center"> Aeronautics Engineer Self-Taught </b> </h2>
+
+### Curriculum
 
   - [Introduction to Aerospace Engineering: Astronautics and Human Spaceflight](https://www.edx.org/es/course/introduction-to-aerospace-engineering-astronautics) || [NOTE](https://github.com/FernandoFH/Aeronautics-Engineer-Self-Taught/blob/main/Intro_Aerospace_Engineering.md)
   - [Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-842-fundamentals-of-systems-engineering-fall-2015/) || [Video](https://www.youtube.com/playlist?list=PLUl4u3cNGP60jIMmB53zl6awCKMnABhYx) || [NOTE](https://github.com/FernandoFH/Aeronautics-Engineer-Self-Taught/blob/main/Fundamentals_Systems_Engineering.md) 
