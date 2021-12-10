@@ -1,4 +1,3 @@
-<h2 align="center"> Introduction to Aerospace Engineering </h2>
-<h3 align="center"> Astronautics and Human Spaceflight  </b> </h3>
+<h2 align="center"> Introduction to Aerospace Engineering: Astronautics and Human Spaceflight  </h2>
 
  
