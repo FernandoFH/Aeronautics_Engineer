@@ -1,1 +1,2 @@
-<h2 align="center"> Aeronautics Engineer Self-Taught </b> </h2>
+<h2 align="center"> Introduction to Aerospace Engineering: Astronautics and Human Spaceflight </b> </h2>
+
