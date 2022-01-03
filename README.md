@@ -3,9 +3,7 @@
   - [Introduction to Aerospace Engineering: Astronautics and Human Spaceflight](https://www.edx.org/es/course/introduction-to-aerospace-engineering-astronautics) || [NOTE](https://github.com/FernandoFH/Aeronautics-Engineer-Self-Taught/blob/main/Intro_Aerospace_Engineering.md)
 - [Introduction to Algorithms ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/) 
 - [Introduction to Numerical Simulation (SMA 5211)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/index.htm) 
-- Software Engineering Concepts
-https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-355j-software-engineering-concepts-fall-2005/index.htm
-
+- [Software Engineering Concepts](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-355j-software-engineering-concepts-fall-2005/index.htm) 
 ------ 
 - [Introduction to Aerospace Engineering and Design](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/) 
 - [Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-842-fundamentals-of-systems-engineering-fall-2015/) || [Video](https://www.youtube.com/playlist?list=PLUl4u3cNGP60jIMmB53zl6awCKMnABhYx) || [NOTE](https://github.com/FernandoFH/Aeronautics-Engineer-Self-Taught/blob/main/Fundamentals_Systems_Engineering.md) 
