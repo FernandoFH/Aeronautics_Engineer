@@ -7,7 +7,7 @@
 ------ 
 - [Introduction to Aerospace Engineering and Design](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/) 
 - [Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-842-fundamentals-of-systems-engineering-fall-2015/) || [Video](https://www.youtube.com/playlist?list=PLUl4u3cNGP60jIMmB53zl6awCKMnABhYx) || [NOTE](https://github.com/FernandoFH/Aeronautics-Engineer-Self-Taught/blob/main/Fundamentals_Systems_Engineering.md) 
-- [Introduction to Aerospace Engineering: Astronautics and Human Spaceflight](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/)
+- [Introduction to Aerospace Engineering: Astronautics and Human Spaceflight](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
 - [Aircraft Systems Engineering](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-885j-aircraft-systems-engineering-fall-2005/) || [NOTE](https://github.com/FernandoFH/Aeronautics-Engineer-Self-Taught/blob/main/Aircraft_Systems_Engineering.md)
 - [Space Propulsion](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-522-space-propulsion-spring-2015/index.htm) 
 - [Space System Architecture and Design](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-892j-space-system-architecture-and-design-fall-2004/index.htm) 
