@@ -1,7 +1,7 @@
 <h1 align="center"> Aeronautics Engineer Self-Taught </b> </h1>
 
   - [Introduction to Aerospace Engineering: Astronautics and Human Spaceflight](https://www.edx.org/es/course/introduction-to-aerospace-engineering-astronautics) || [NOTE](https://github.com/FernandoFH/Aeronautics-Engineer-Self-Taught/blob/main/Intro_Aerospace_Engineering.md)
-- [Introduction to Algorithms ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/) 
+- [Introduction to Algorithms ](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) 
 - [Introduction to Numerical Simulation (SMA 5211)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/index.htm) 
 - [Software Engineering Concepts](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-355j-software-engineering-concepts-fall-2005/index.htm) 
 ------ 
