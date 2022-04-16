@@ -4,7 +4,7 @@
 
 |Date      | Specialization	                | Course	    |   Status | Repo | 
 |--------- | ------------------------------ |-------------|   ------ |------ | 
-| 15/04/22 | [Spacecraft Dynamics and Control](https://www.coursera.org/specializations/spacecraft-dynamics-control) | Kinematics: Describing the Motions of Spacecraft | In Process |  | 
+| 15/04/22 | [Spacecraft Dynamics and Control](https://www.coursera.org/specializations/spacecraft-dynamics-control) | Kinematics: Describing the Motions of Spacecraft | In Process | [Repo](Spacecraft_Dynamics_and_Control/) | 
 |  |  | Kinetics: Studying Spacecraft Motion |   |  | 
 |  |  | Control of Nonlinear Spacecraft Attitude Motion |   |  | 
 |  |  | Spacecraft Dynamics Capstone: Mars Mission |   |  | 
