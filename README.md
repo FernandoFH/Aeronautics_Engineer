@@ -1,5 +1,17 @@
 <h1 align="center"> Aeronautics Engineer Self-Taught </b> </h1>
 
+### Computer Science
+
+|Date      | Specialization	                | Course	    |   Status | Repo | 
+|--------- | ------------------------------ |-------------|   ------ |------ | 
+| 15/04/22 | [Spacecraft Dynamics and Control](https://www.coursera.org/specializations/spacecraft-dynamics-control) | Kinematics: Describing the Motions of Spacecraft | In Process |  | 
+|  |  | Kinetics: Studying Spacecraft Motion |   |  | 
+|  |  | Control of Nonlinear Spacecraft Attitude Motion |   |  | 
+|  |  | Spacecraft Dynamics Capstone: Mars Mission |   |  | 
+| - | [Advanced Spacecraft Dynamics and Control](https://www.coursera.org/specializations/advanced-spacecraft-dynamics-control) | Attitude Control with Momentum Exchange Devices | In Process |  | 
+|  |  | Analytical Mechanics for Spacecraft Dynamics |   |  | 
+|  |  | Advanced Capstone Spacecraft Dynamics and Control Project |   |  | 
+
   - [Introduction to Aerospace Engineering: Astronautics and Human Spaceflight](https://www.edx.org/es/course/introduction-to-aerospace-engineering-astronautics) || [NOTE](https://github.com/FernandoFH/Aeronautics-Engineer-Self-Taught/blob/main/Intro_Aerospace_Engineering.md)
 - [Introduction to Algorithms ](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) 
 - [Introduction to Numerical Simulation (SMA 5211)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/index.htm) 
