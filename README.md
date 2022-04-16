@@ -8,7 +8,7 @@
 |  |  | Kinetics: Studying Spacecraft Motion |   |  | 
 |  |  | Control of Nonlinear Spacecraft Attitude Motion |   |  | 
 |  |  | Spacecraft Dynamics Capstone: Mars Mission |   |  | 
-| - | [Advanced Spacecraft Dynamics and Control](https://www.coursera.org/specializations/advanced-spacecraft-dynamics-control) | Attitude Control with Momentum Exchange Devices | In Process |  | 
+|   | [Advanced Spacecraft Dynamics and Control](https://www.coursera.org/specializations/advanced-spacecraft-dynamics-control) | Attitude Control with Momentum Exchange Devices |   |  | 
 |  |  | Analytical Mechanics for Spacecraft Dynamics |   |  | 
 |  |  | Advanced Capstone Spacecraft Dynamics and Control Project |   |  | 
 
