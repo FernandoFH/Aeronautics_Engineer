@@ -4,6 +4,8 @@
 
 |Date      | Specialization	                | Course	    |   Status | Repo | 
 |--------- | ------------------------------ |-------------|   ------ |------ | 
+| -------- | [Introduction to Aerospace Engineering](https://www.edx.org/es/course/introduction-to-aerospace-engineering-astronautics) |  | In Process | [Repo](Intro_Aerospace_Engineering/) | 
+| -------- | [Engineering the Space Shuttle](https://www.edx.org/es/course/engineering-the-space-shuttles) |  | In Process | [Repo](Engineering_SpaceShuttle/) | 
 | 15/04/22 | [Spacecraft Dynamics and Control](https://www.coursera.org/specializations/spacecraft-dynamics-control) | Kinematics: Describing the Motions of Spacecraft | In Process | [Repo](Spacecraft_Dynamics_and_Control/) | 
 |  |  | Kinetics: Studying Spacecraft Motion |   |  | 
 |  |  | Control of Nonlinear Spacecraft Attitude Motion |   |  | 
