@@ -5,7 +5,7 @@
 |Date      | Specialization	                | Course	    |   Status | Repo | 
 |--------- | ------------------------------ |-------------|   ------ |------ | 
 |   | [Introduction to Aerospace Engineering](https://www.edx.org/es/course/introduction-to-aerospace-engineering-astronautics) |  | Process | [Repo](Intro_Aerospace_Engineering/) | 
-|   | [Engineering the Space Shuttle](https://www.edx.org/es/course/engineering-the-space-shuttles) |  | In Process | [Repo](Engineering_SpaceShuttle/) | 
+|   | [Engineering the Space Shuttle](https://www.edx.org/es/course/engineering-the-space-shuttles) |  | Process | [Repo](Engineering_SpaceShuttle/) | 
 | 15/04/22 | [Digitalisation in Aeronautics and Space](https://www.coursera.org/specializations/aerospace) | Digitalisation in the Aerospace Industry | Process | [Repo](Digitalisation_Aerospace_Industry/) | 
 |  |  | Digitalisation in Space Research |   |  | 
 |  |  | Digitalisation in Aeronautics |   |  | 
