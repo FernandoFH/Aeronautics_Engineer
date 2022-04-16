@@ -4,8 +4,12 @@
 
 |Date      | Specialization	                | Course	    |   Status | Repo | 
 |--------- | ------------------------------ |-------------|   ------ |------ | 
-| -------- | [Introduction to Aerospace Engineering](https://www.edx.org/es/course/introduction-to-aerospace-engineering-astronautics) |  | In Process | [Repo](Intro_Aerospace_Engineering/) | 
-| -------- | [Engineering the Space Shuttle](https://www.edx.org/es/course/engineering-the-space-shuttles) |  | In Process | [Repo](Engineering_SpaceShuttle/) | 
+|   | [Introduction to Aerospace Engineering](https://www.edx.org/es/course/introduction-to-aerospace-engineering-astronautics) |  | In Process | [Repo](Intro_Aerospace_Engineering/) | 
+|   | [Engineering the Space Shuttle](https://www.edx.org/es/course/engineering-the-space-shuttles) |  | In Process | [Repo](Engineering_SpaceShuttle/) | 
+| 15/04/22 | [Digitalisation in Aeronautics and Space](https://www.coursera.org/specializations/aerospace) | Digitalisation in the Aerospace Industry | In Process | [Repo](Digitalisation_Aerospace_Industry/) | 
+|  |  | Digitalisation in Space Research |   |  | 
+|  |  | Digitalisation in Aeronautics |   |  | 
+| 15/04/22 | [Data-driven Astronomy](https://www.coursera.org/learn/data-driven-astronomy) |  | In Process | [Repo](Data_driven_Astronomy/) | 
 | 15/04/22 | [Spacecraft Dynamics and Control](https://www.coursera.org/specializations/spacecraft-dynamics-control) | Kinematics: Describing the Motions of Spacecraft | In Process | [Repo](Spacecraft_Dynamics_and_Control/) | 
 |  |  | Kinetics: Studying Spacecraft Motion |   |  | 
 |  |  | Control of Nonlinear Spacecraft Attitude Motion |   |  | 
@@ -13,6 +17,9 @@
 |   | [Advanced Spacecraft Dynamics and Control](https://www.coursera.org/specializations/advanced-spacecraft-dynamics-control) | Attitude Control with Momentum Exchange Devices |   | [Repo](Advanced_Spacecraft_Dynamics/)  | 
 |  |  | Analytical Mechanics for Spacecraft Dynamics |   |  | 
 |  |  | Advanced Capstone Spacecraft Dynamics and Control Project |   |  | 
+
+
+
 
   - [Introduction to Aerospace Engineering: Astronautics and Human Spaceflight](https://www.edx.org/es/course/introduction-to-aerospace-engineering-astronautics) || [NOTE](https://github.com/FernandoFH/Aeronautics-Engineer-Self-Taught/blob/main/Intro_Aerospace_Engineering.md)
 - [Introduction to Algorithms ](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) 
