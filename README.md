@@ -114,15 +114,15 @@
  Aerospace Engineering
 
 Primer año:
-
 Matemáticas I
 Física I
 Química
 Introducción a la Ingeniería Espacial
 Fundamentos de Programación
 Mecánica Clásica
-Segundo año:
 
+
+Segundo año:
 Matemáticas II
 Física II
 Termodinámica
@@ -130,8 +130,9 @@ Electromagnetismo
 Mecánica de Fluidos
 Ecuaciones Diferenciales
 Materiales y Propiedades
-Tercer año:
 
+
+Tercer año:
 Matemáticas III
 Mecánica Orbital
 Sistemas Dinámicos
@@ -139,8 +140,9 @@ Electrónica y Circuitos
 Diseño de Sistemas Espaciales
 Procesamiento de Señales
 Ingeniería de Control
-Cuarto año:
 
+
+Cuarto año:
 Propulsión Espacial
 Estructuras Aeroespaciales
 Sistemas de Navegación y Control
@@ -148,5 +150,3 @@ Instrumentación Aeroespacial
 Diseño de Misiones Espaciales
 Comunicaciones Espaciales
 Ingeniería de Sistemas
-
-
