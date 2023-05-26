@@ -2,6 +2,8 @@
 
 ### Computer Science
 
+- [Flight mechanics fundamentals](https://www.coursera.org/specializations/flight-mechanics-fundamentals) 
+
 |Date      | Specialization	                | Course	    |   Status | Repo | 
 |--------- | ------------------------------ |-------------|   ------ |------ | 
 |   | [Introduction to Aerospace Engineering](https://www.edx.org/es/course/introduction-to-aerospace-engineering-astronautics) |  | Process | [Repo](Intro_Aerospace_Engineering/) | 
@@ -45,7 +47,6 @@
 - [Dynamic Systems and Control](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-241j-dynamic-systems-and-control-spring-2011/index.htm) 
 - [Dynamics of Nonlinear Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-243j-dynamics-of-nonlinear-systems-fall-2003/index.htm)
 - [Aircraft Stability and Control](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-333-aircraft-stability-and-control-fall-2004/) 
-
 
 
 ### PRIMER NIVEL
