@@ -2,8 +2,6 @@
 
 ### Computer Science
 
-- [Flight mechanics fundamentals](https://www.coursera.org/specializations/flight-mechanics-fundamentals) 
-
 |Date      | Specialization	                | Course	    |   Status | Repo | 
 |--------- | ------------------------------ |-------------|   ------ |------ | 
 |   | [Introduction to Aerospace Engineering](https://www.edx.org/es/course/introduction-to-aerospace-engineering-astronautics) |  | Process | [Repo](Intro_Aerospace_Engineering/) | 
@@ -20,8 +18,7 @@
 |  |  | Analytical Mechanics for Spacecraft Dynamics |   |  | 
 |  |  | Advanced Capstone Spacecraft Dynamics and Control Project |   |  | 
 
-
-
+- [Flight mechanics fundamentals](https://www.coursera.org/specializations/flight-mechanics-fundamentals) 
 
   - [Introduction to Aerospace Engineering: Astronautics and Human Spaceflight](https://www.edx.org/es/course/introduction-to-aerospace-engineering-astronautics) || [NOTE](https://github.com/FernandoFH/Aeronautics-Engineer-Self-Taught/blob/main/Intro_Aerospace_Engineering.md)
 - [Introduction to Algorithms ](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) 
