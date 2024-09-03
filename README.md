@@ -1,5 +1,17 @@
 <h1 align="center"> Aeronautics Engineer Self-Taught </b> </h1>
 
+
+Introduction to Aerodynamics
+MITx • 16.101x • Curso finalizado 20 de diciembre de 2018
+https://learning.edx.org/course/course-v1:MITx+16.101x_2+3T2018/home
+
+
+Introduction to Aeronautical Engineering
+DelftX • AE1110x • El acceso caduca 17 de octubre de 2024
+https://learning.edx.org/course/course-v1:DelftX+AE1110x+2T2024/home
+
+
+
 ### Computer Science
 
 |Date      | Specialization	                | Course	    |   Status | Repo | 
